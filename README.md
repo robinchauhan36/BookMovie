@@ -20,3 +20,7 @@ To test this project you just need to do following steps-
 7 - Create a superuser to access the admin **python manage.py createsuperuser**
 
 8 - Add cities to master data from ADMIN and you can add movie details through Admin or with the API too.
+
+
+If any queries related to cloning the project feel free to reach me.
+Thankyou
